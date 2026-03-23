@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-I'm an AI Engineer and Researcher specializing in the development of real-world intelligent systems using deep learning and large language models. Currently contributing to cutting-edge AI research at **NTNU, Norway** while pursuing my **Master's in Computer Science** at Sukkur IBA University.
+I'm an AI Researcher specializing in the development of real-world intelligent systems using deep learning and large language models. Currently contributing to cutting-edge AI research at **NTNU, Norway** while pursuing my **Master's in Computer Science** at Sukkur IBA University.
 
 My work spans across **Computer Vision**, **NLP**, and **Generative AI** — from building production-ready pipelines to publishing research and mentoring the next generation of AI practitioners.
 
