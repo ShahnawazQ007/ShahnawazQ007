@@ -4,7 +4,7 @@
 
 # Shahnawaz Qureshi
 
-**AI Engineer · Computer Vision Researcher · GenAI Developer**
+**AI Researcher · Computer Vision Researcher · GenAI Developer**
 
 *Building intelligent systems at the intersection of deep learning, computer vision, and large language models.*
 
